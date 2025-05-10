@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFormat", "TextFormat\TextFormat.csproj", "{A35454EC-B912-4DF8-B954-1D12B05908BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestsTextFormats", "TestsTextFormats\TestsTextFormats.csproj", "{7DD52860-7FB7-42F2-BCFE-E0420C89970C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A35454EC-B912-4DF8-B954-1D12B05908BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A35454EC-B912-4DF8-B954-1D12B05908BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A35454EC-B912-4DF8-B954-1D12B05908BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A35454EC-B912-4DF8-B954-1D12B05908BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DD52860-7FB7-42F2-BCFE-E0420C89970C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD52860-7FB7-42F2-BCFE-E0420C89970C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD52860-7FB7-42F2-BCFE-E0420C89970C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DD52860-7FB7-42F2-BCFE-E0420C89970C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2847664-76E2-48E3-8915-62DCB51B7F30}
+	EndGlobalSection
+EndGlobal

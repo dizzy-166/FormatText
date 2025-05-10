@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\denis\\source\\repos\\TextFormat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|c:\\users\\denis\\source\\repos\\textformat\\textformat\\formats\\csv\\navigatecsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|solutionrelative:textformat\\formats\\csv\\navigatecsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|c:\\users\\denis\\source\\repos\\textformat\\textformat\\formats\\csv\\csv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|solutionrelative:textformat\\formats\\csv\\csv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|c:\\users\\denis\\source\\repos\\textformat\\textformat\\formats\\json\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|solutionrelative:textformat\\formats\\json\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|c:\\users\\denis\\source\\repos\\textformat\\textformat\\formats\\json\\navigatejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|solutionrelative:textformat\\formats\\json\\navigatejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|c:\\users\\denis\\source\\repos\\textformat\\textformat\\formats\\txt\\navigatetxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|solutionrelative:textformat\\formats\\txt\\navigatetxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|c:\\users\\denis\\source\\repos\\textformat\\textformat\\formats\\txt\\txt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|solutionrelative:textformat\\formats\\txt\\txt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|c:\\users\\denis\\source\\repos\\textformat\\textformat\\formats\\xml\\xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|solutionrelative:textformat\\formats\\xml\\xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|c:\\users\\denis\\source\\repos\\textformat\\textformat\\formats\\xml\\navigatexml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|solutionrelative:textformat\\formats\\xml\\navigatexml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|c:\\users\\denis\\source\\repos\\textformat\\textformat\\formats\\yaml\\navigateyaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|solutionrelative:textformat\\formats\\yaml\\navigateyaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|c:\\users\\denis\\source\\repos\\textformat\\textformat\\formats\\yaml\\yaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|solutionrelative:textformat\\formats\\yaml\\yaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|c:\\users\\denis\\source\\repos\\textformat\\textformat\\person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|solutionrelative:textformat\\person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|c:\\users\\denis\\source\\repos\\textformat\\textformat\\person\\prperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|solutionrelative:textformat\\person\\prperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|c:\\users\\denis\\source\\repos\\textformat\\textformat\\navigateprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|solutionrelative:textformat\\navigateprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|c:\\users\\denis\\source\\repos\\textformat\\textformat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|solutionrelative:textformat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD52860-7FB7-42F2-BCFE-E0420C89970C}|TestsTextFormats\\TestsTextFormats.csproj|c:\\users\\denis\\source\\repos\\textformat\\teststextformats\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD52860-7FB7-42F2-BCFE-E0420C89970C}|TestsTextFormats\\TestsTextFormats.csproj|solutionrelative:teststextformats\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|c:\\users\\denis\\source\\repos\\textformat\\textformat\\textformat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A35454EC-B912-4DF8-B954-1D12B05908BC}|TextFormat\\TextFormat.csproj|solutionrelative:textformat\\textformat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CSV.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\Formats\\CSV\\CSV.cs",
+              "RelativeDocumentMoniker": "TextFormat\\Formats\\CSV\\CSV.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\Formats\\CSV\\CSV.cs",
+              "RelativeToolTip": "TextFormat\\Formats\\CSV\\CSV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:58:00.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavigateJSON.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\Formats\\JSON\\NavigateJSON.cs",
+              "RelativeDocumentMoniker": "TextFormat\\Formats\\JSON\\NavigateJSON.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\Formats\\JSON\\NavigateJSON.cs",
+              "RelativeToolTip": "TextFormat\\Formats\\JSON\\NavigateJSON.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:57:13.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JSON.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\Formats\\JSON\\JSON.cs",
+              "RelativeDocumentMoniker": "TextFormat\\Formats\\JSON\\JSON.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\Formats\\JSON\\JSON.cs",
+              "RelativeToolTip": "TextFormat\\Formats\\JSON\\JSON.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:56:45.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "XML.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\Formats\\XML\\XML.cs",
+              "RelativeDocumentMoniker": "TextFormat\\Formats\\XML\\XML.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\Formats\\XML\\XML.cs",
+              "RelativeToolTip": "TextFormat\\Formats\\XML\\XML.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAcwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:54:09.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NavigateXML.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\Formats\\XML\\NavigateXML.cs",
+              "RelativeDocumentMoniker": "TextFormat\\Formats\\XML\\NavigateXML.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\Formats\\XML\\NavigateXML.cs",
+              "RelativeToolTip": "TextFormat\\Formats\\XML\\NavigateXML.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:53:48.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavigateYAML.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\Formats\\YAML\\NavigateYAML.cs",
+              "RelativeDocumentMoniker": "TextFormat\\Formats\\YAML\\NavigateYAML.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\Formats\\YAML\\NavigateYAML.cs",
+              "RelativeToolTip": "TextFormat\\Formats\\YAML\\NavigateYAML.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:53:07.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "YAML.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\Formats\\YAML\\YAML.cs",
+              "RelativeDocumentMoniker": "TextFormat\\Formats\\YAML\\YAML.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\Formats\\YAML\\YAML.cs",
+              "RelativeToolTip": "TextFormat\\Formats\\YAML\\YAML.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAcwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:52:41.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\Person\\Person.cs",
+              "RelativeDocumentMoniker": "TextFormat\\Person\\Person.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\Person\\Person.cs",
+              "RelativeToolTip": "TextFormat\\Person\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:52:36.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PrPerson.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\Person\\PrPerson.cs",
+              "RelativeDocumentMoniker": "TextFormat\\Person\\PrPerson.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\Person\\PrPerson.cs",
+              "RelativeToolTip": "TextFormat\\Person\\PrPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:51:51.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NavigateProgram.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\NavigateProgram.cs",
+              "RelativeDocumentMoniker": "TextFormat\\NavigateProgram.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\NavigateProgram.cs",
+              "RelativeToolTip": "TextFormat\\NavigateProgram.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:51:21.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\Program.cs",
+              "RelativeDocumentMoniker": "TextFormat\\Program.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\Program.cs",
+              "RelativeToolTip": "TextFormat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:50:56.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\TextFormat\\TestsTextFormats\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestsTextFormats\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\TextFormat\\TestsTextFormats\\UnitTest1.cs",
+              "RelativeToolTip": "TestsTextFormats\\UnitTest1.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:43:21.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TextFormat",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\TextFormat.csproj",
+              "RelativeDocumentMoniker": "TextFormat\\TextFormat.csproj",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\TextFormat.csproj",
+              "RelativeToolTip": "TextFormat\\TextFormat.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-10T17:41:48.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TXT.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\Formats\\TXT\\TXT.cs",
+              "RelativeDocumentMoniker": "TextFormat\\Formats\\TXT\\TXT.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\Formats\\TXT\\TXT.cs",
+              "RelativeToolTip": "TextFormat\\Formats\\TXT\\TXT.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAcwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:33:21.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavigateTXT.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\Formats\\TXT\\NavigateTXT.cs",
+              "RelativeDocumentMoniker": "TextFormat\\Formats\\TXT\\NavigateTXT.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\Formats\\TXT\\NavigateTXT.cs",
+              "RelativeToolTip": "TextFormat\\Formats\\TXT\\NavigateTXT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:33:15.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavigateCSV.cs",
+              "DocumentMoniker": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\Formats\\CSV\\NavigateCSV.cs",
+              "RelativeDocumentMoniker": "TextFormat\\Formats\\CSV\\NavigateCSV.cs",
+              "ToolTip": "C:\\Users\\denis\\source\\repos\\TextFormat\\TextFormat\\Formats\\CSV\\NavigateCSV.cs",
+              "RelativeToolTip": "TextFormat\\Formats\\CSV\\NavigateCSV.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:31:22.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\denis\source\repos\TextFormat\TextFormat\bin\Debug\net8.0\TextFormat.exe
+C:\Users\denis\source\repos\TextFormat\TextFormat\bin\Debug\net8.0\TextFormat.deps.json
+C:\Users\denis\source\repos\TextFormat\TextFormat\bin\Debug\net8.0\TextFormat.runtimeconfig.json
+C:\Users\denis\source\repos\TextFormat\TextFormat\bin\Debug\net8.0\TextFormat.dll
+C:\Users\denis\source\repos\TextFormat\TextFormat\bin\Debug\net8.0\TextFormat.pdb
+C:\Users\denis\source\repos\TextFormat\TextFormat\bin\Debug\net8.0\YamlDotNet.dll
+C:\Users\denis\source\repos\TextFormat\TextFormat\obj\Debug\net8.0\TextFormat.csproj.AssemblyReference.cache
+C:\Users\denis\source\repos\TextFormat\TextFormat\obj\Debug\net8.0\TextFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\source\repos\TextFormat\TextFormat\obj\Debug\net8.0\TextFormat.AssemblyInfoInputs.cache
+C:\Users\denis\source\repos\TextFormat\TextFormat\obj\Debug\net8.0\TextFormat.AssemblyInfo.cs
+C:\Users\denis\source\repos\TextFormat\TextFormat\obj\Debug\net8.0\TextFormat.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\TextFormat\TextFormat\obj\Debug\net8.0\TextFormat.csproj.Up2Date
+C:\Users\denis\source\repos\TextFormat\TextFormat\obj\Debug\net8.0\TextFormat.dll
+C:\Users\denis\source\repos\TextFormat\TextFormat\obj\Debug\net8.0\refint\TextFormat.dll
+C:\Users\denis\source\repos\TextFormat\TextFormat\obj\Debug\net8.0\TextFormat.pdb
+C:\Users\denis\source\repos\TextFormat\TextFormat\obj\Debug\net8.0\TextFormat.genruntimeconfig.cache
+C:\Users\denis\source\repos\TextFormat\TextFormat\obj\Debug\net8.0\ref\TextFormat.dll
