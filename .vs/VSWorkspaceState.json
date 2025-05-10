@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TestsTextFormats",
+    "\\TextFormat",
+    "\\TextFormat\\Formats\\XML",
+    "\\TextFormat\\Formats\\YAML"
+  ],
+  "SelectedNode": "\\TestsTextFormats\\UnitTest1.cs",
+  "PreviewInSolutionExplorer": false
+}
