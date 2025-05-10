@@ -1,7 +1,7 @@
 ﻿using System;
-using TextFormat.Formats.TXT; // Подключение обработчика формата TXT
-using TextFormat.Person; // Подключение класса для вывода данных о пользователях
-using TextFormats.WorkLibrary; // Подключение модели LibraryCard
+using TextFormat.Formats.TXT; 
+using TextFormat.Person; 
+using TextFormats.WorkLibrary; 
 
 namespace TextFormat.Formats.TXT
 {

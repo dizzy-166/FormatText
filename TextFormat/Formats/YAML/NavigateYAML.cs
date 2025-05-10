@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TextFormat.Person; // Для вывода объектов LibraryCard
-using TextFormats.WorkLibrary; // Модель данных LibraryCard
+using TextFormat.Person; 
+using TextFormats.WorkLibrary; 
 
 namespace TextFormat.Formats.YAML
 {

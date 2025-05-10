@@ -54,8 +54,8 @@ namespace TestsTextFormats
             CommonTextFormat format = new CommonTextFormat();
             LibraryCard[] cards = new[]
             {
-                new LibraryCard(1, "Смирнова Анна", "01.01.1990", "001"),
-                new LibraryCard(2, "Иванов Иван", "02.02.1985", "002")
+                new LibraryCard(1, "Смолова Анна Сергеевна", "09.09.1993", "001"),
+                new LibraryCard(2, "Иванов Иван Иванович", "05.05.1970", "002")
             };
             using var sw = new StringWriter(); // перехватываем вывод в консоль
             Console.SetOut(sw);

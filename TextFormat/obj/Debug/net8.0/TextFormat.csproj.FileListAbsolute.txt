@@ -15,3 +15,4 @@ C:\Users\denis\source\repos\TextFormat\TextFormat\obj\Debug\net8.0\refint\TextFo
 C:\Users\denis\source\repos\TextFormat\TextFormat\obj\Debug\net8.0\TextFormat.pdb
 C:\Users\denis\source\repos\TextFormat\TextFormat\obj\Debug\net8.0\TextFormat.genruntimeconfig.cache
 C:\Users\denis\source\repos\TextFormat\TextFormat\obj\Debug\net8.0\ref\TextFormat.dll
+C:\Users\denis\source\repos\TextFormat\TextFormat\obj\Debug\net8.0\TextFormat.sourcelink.json

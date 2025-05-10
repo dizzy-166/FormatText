@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Xml.Serialization; // Для сериализации/десериализации XML
-using TextFormats.WorkLibrary; // Модель LibraryCard
+using System.Xml.Serialization; 
+using TextFormats.WorkLibrary; 
 
 namespace TextFormat.Formats.XML
 {
